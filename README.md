@@ -11,7 +11,7 @@
 | [kitematic-cli-cn](https://github.com/DockerOne-CN/kitematic-docs-CN/blob/master/kitematic-cli-cn.md) | [田浩浩](http://dockerone.com/people/llitfkitfk) | | 待校对 |
 | [kitematic-kitematic-tutorials-nginx-cn](https://github.com/DockerOne-CN/kitematic-docs-CN/blob/master/kitematic-tutorials-nginx-cn.md) | [崔婧雯](http://dockerone.com/people/%E5%B4%94%E5%A9%A7%E9%9B%AF)  | | 翻译中 |
 | [kitematic-kitematic-tutorials-minecraft-cn](https://github.com/DockerOne-CN/kitematic-docs-CN/blob/master/kitematic-tutorials-minecraft-cn.md) | [淘米侠](http://dockerone.com/people/%E5%90%B4%E9%94%A6%E6%99%9F) | | 翻译中 |
-| [kitematic-kitematic-tutorials-rethinkdb-cn](https://github.com/DockerOne-CN/kitematic-docs-CN/blob/master/kitematic-tutorials-rethinkdb-cn.md) | [田浩浩](http://dockerone.com/people/llitfkitfk) | | 翻译中 |
+| [kitematic-kitematic-tutorials-rethinkdb-cn](https://github.com/DockerOne-CN/kitematic-docs-CN/blob/master/kitematic-tutorials-rethinkdb-cn.md) | [田浩浩](http://dockerone.com/people/llitfkitfk) | | 待校对 |
 
 
 
