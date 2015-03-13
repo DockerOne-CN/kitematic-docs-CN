@@ -23,5 +23,5 @@ Kitematic是一个自包含应用程序，但有两个例外：
 ####为什么Kitematic需要我的root密码？
 
 Kitematic需要Mac上的root密码有两个原因：
-* 安装VirtualBox的需要root，因为它包含的Mac OS X的内核扩展。
-* 复制泊坞窗和搬运工机到/ usr/ local / bin目录可能需要root权限，如果该目录的默认权限已在安装之前Kitematic改变。
+* 安装VirtualBox需要root，因为它包含了Mac OS X的内核扩展。
+* 复制`docker`和`docker-machine`到`/usr/local/bin`目录可能会需要root权限，如果该目录的默认权限已在安装Kitematic之前改变。
