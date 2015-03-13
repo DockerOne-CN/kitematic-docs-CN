@@ -14,4 +14,14 @@ Docker GUI - Kitematic 安装教程
 	
 安装结束后，你就可以运行你得第一个容器了！
 
-![](https://cloud.githubusercontent.com/assets/251292/6427866/d574314c-bf5b-11e4-824d-946d41b174f4.png)
+![](https://cloud.githubusercontent.com/assets/251292/6427866/d574314c-bf5b-11e4-824d-946d41b174f4.png)###技术细节
+
+Kitematic是一个自包含应用程序，但有两个例外：
+* 如果尚未安装VirtualBox，它会先安装VirtualBox。
+* 为了方便起见，它会复制`docker`和`docker-machine`二进制文件到`/usr/local/bin`目录。
+
+####为什么Kitematic需要我的root密码？
+
+Kitematic需要Mac上的root密码有两个原因：
+* 安装VirtualBox的需要root，因为它包含的Mac OS X的内核扩展。
+* 复制泊坞窗和搬运工机到/ usr/ local / bin目录可能需要root权限，如果该目录的默认权限已在安装之前Kitematic改变。

@@ -1,0 +1,1 @@
+https://kitematic.com/docs/rethinkdb-dev-database/
