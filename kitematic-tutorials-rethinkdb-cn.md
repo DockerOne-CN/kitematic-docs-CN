@@ -1,4 +1,4 @@
-Docker GUI - Kitematic 教程：创建本地RethinkDB数据库
+【Docker GUI】Kitematic文档 - 教程：创建本地RethinkDB数据库
 
 在这篇教程中，你会学到：
 * 如何创建一个RethinkDB数据库的容器
